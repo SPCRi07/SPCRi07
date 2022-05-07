@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SPCRi07
+- 👋 Hi, I’m @SPCRi07 Parth Solanki 
+- I am Student @CMPICA,Charusat.
 - 👀 I’m interested in Web Developing & Mobile Development
 - 🌱 I’m currently learning Flutter and Web3
 
